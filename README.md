@@ -1,4 +1,4 @@
-# CryptoCurruncy-Price-prediction-Using-Xgboost
+# CryptoCurrency-Price-prediction-Using-Xgboost
 Introduction
 Time series is a sequence or series of data points in which the time component is involved throughout the occurrence and Analyzing this time series data with certain tools and techniques is called time series analysis.
 
